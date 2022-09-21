@@ -14,3 +14,7 @@ git push origin main (가지 단위로 (history 전체)이력을 올린다.)
 
 (HEAD -> main, origin/main, origin/HEAD)
 로컬 저장소와 리모크 저장소의 이력차이가 없음(최신이력)
+
+git push 리모트저장소 가지
+    해당 리모트 저장소 생성자와 로컬저장송 작업자가 동일해야  push할 수 있다.(브라우저 로그인 인증)
+    해당 리모트 저장소의 팀원으로 등록되면 push할 수 있다.
